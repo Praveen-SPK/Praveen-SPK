@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Kumar S 
 - 👀 I’m interested to become a web developer...
 - 🌱 I’m currently learning full stack web development in besant technologies...
-- 📫 To reach out me - praveenspk9492@gmail.com or https://www.linkedin.com/in/praveenkumarspk26
+- 📫 To reach out me - praveenspk9492@gmail.com or https://www.linkedin.com/in/praveenkumarspk26 
 
 
 <!---
